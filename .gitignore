@@ -1,0 +1,22 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Mon avatar / mes images perso (mets-les dans avatars/)
+avatars/*
+!avatars/.gitkeep
+
+# Sorties de test, enregistrements, logs
+test_out*
+*.log
+*.mp4
+*.avi
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
